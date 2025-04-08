@@ -1,1 +1,1 @@
-This project implements the Power Method, a numerical algorithm used to find the dominant eigenvalue and corresponding eigenvector of a matrix. It is useful in various engineering and scientific applications, especially when dealing with large matrices.
+This repository contains an implementation of the Improved Euler Method (also known as Heun’s Method), which is a numerical technique for solving ordinary differential equations (ODEs) with greater accuracy than the standard Euler method.

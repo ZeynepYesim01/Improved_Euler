@@ -1,0 +1,1 @@
+This project implements the Power Method, a numerical algorithm used to find the dominant eigenvalue and corresponding eigenvector of a matrix. It is useful in various engineering and scientific applications, especially when dealing with large matrices.
